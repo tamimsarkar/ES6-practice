@@ -8,3 +8,4 @@ class bio{
 }
 const person1 = new bio();
 console.log(person1)
+
